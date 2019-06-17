@@ -8,7 +8,7 @@ The work is inspired from https://gogul09.github.io/software/hand-gesture-recogn
     run the code after 30 frame pose your hand in the bounding box displayed on the video
 ## Training    
     Then Resize the images using resize.py
-    
+    The file read.py helps to find the image resolution and no of channels which can be helpful reshaping
     set some default parameters
     Filters=32
     EPOCHS=50
