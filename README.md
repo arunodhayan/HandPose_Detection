@@ -23,6 +23,6 @@ The work is inspired from https://gogul09.github.io/software/hand-gesture-recogn
     Then Run python2 train.py to train the dataset
     
 ## Results
-
+    The results were uploaded in the above 
     
     
